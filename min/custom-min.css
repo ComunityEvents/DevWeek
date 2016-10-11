@@ -330,3 +330,7 @@ footer.page-footer {
 .amethist {
     background-color: #9b59b6 !important
 }
+
+.collection .collection-item.avatar {
+    padding-left: 84px!important
+}
