@@ -334,3 +334,16 @@ footer.page-footer {
 .collection .collection-item.avatar {
     padding-left: 84px!important
 }
+
+.hour-circle {
+    border-radius: 100%;
+    border-width: 1px;
+    border-style: solid;
+    border-color:  #9b59b6;
+    background: #9b59b6;
+    width: 50px !important; 
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    color: #fff
+}
